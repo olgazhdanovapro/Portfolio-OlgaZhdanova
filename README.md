@@ -12,16 +12,16 @@ Each section includes self-created materials demonstrating analytical thinking, 
 🧩 QA
 
 Includes documentation and examples that illustrate my approach to software quality assurance — such as test plans, bug reports, and process documentation.
-📂 Folder: [QA].(/QA)
+📂 Folder: [QA](/QA)
 
 💼 BA (Business Analysis)
 
 Contains business analysis artifacts and exercises created during learning and practical exploration — for example, requirement documentation, workflows, and diagrams.
-📂 Folder: /BA
+📂 Folder: [BA](/BA)
 
 🧮 SQL
 
 Showcases SQL examples used for data validation, investigation, and analysis — relevant to both QA and BA roles.
-📂 Folder: /SQL
+📂 Folder: [SQL](/SQL)
 
 💡 This repository is continuously updated as I create new learning projects and analytical artifacts.
